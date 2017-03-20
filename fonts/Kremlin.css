@@ -4,12 +4,12 @@
 
 @font-face {
     font-family: 'kremlinregular';
-    src: url('https://dl.dropboxusercontent.com/u/45643475/fonts/kremlin-webfont.eot');
+    src: url('https://cdn.rawgit.com/communistbastard/fonts/font/fonts/kremlin-webfont.eot');
     src: url('https://dl.dropboxusercontent.com/u/45643475/fonts/kremlin-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://dl.dropboxusercontent.com/u/45643475/fonts/kremlin-webfont.woff2') format('woff2'),
-         url('https://dl.dropboxusercontent.com/u/45643475/fonts/kremlin-webfont.woff') format('woff'),
-         url('https://dl.dropboxusercontent.com/u/45643475/fonts/kremlin-webfont.ttf') format('truetype'),
-         url('https://dl.dropboxusercontent.com/u/45643475/fonts/kremlin-webfont.svg#kremlinregular') format('svg');
+         url('https://cdn.rawgit.com/communistbastard/fonts/font/fonts/kremlin-webfont.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/communistbastard/fonts/font/fonts/kremlin-webfont.woff') format('woff'),
+         url('https://cdn.rawgit.com/communistbastard/fonts/font/fonts/kremlin-webfont.ttf') format('truetype'),
+         url('https://cdn.rawgit.com/communistbastard/fonts/font/fonts/kremlin-webfont.svg') format('svg');
     font-weight: regular;
     font-style: regular;
 
