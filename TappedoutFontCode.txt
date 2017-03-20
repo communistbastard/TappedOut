@@ -1,2 +1,2 @@
 #B40404; text-shadow: #868A08 0px -3px 1px, #000000 0px 3px 1px; font-family: 'kremlinregular';">
-<link href='https://dl.dropboxusercontent.com/u/45643475/fonts/Kremlin.css' rel='stylesheet' type='text/css'"
+<link href='https://cdn.rawgit.com/communistbastard/fonts/font/fonts/Kremlin.css' rel='stylesheet' type='text/css'"
