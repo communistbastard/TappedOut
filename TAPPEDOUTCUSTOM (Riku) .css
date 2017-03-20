@@ -16,7 +16,7 @@ background-color:rgba(0,0,0,0.5);
 
 #sitebody
 {
-background-image:url('https://dl.dropboxusercontent.com/u/45643475/grove-art-1038x576(dark).jpg');
+background-image:url('https://cdn.rawgit.com/communistbastard/fonts/font/grove-art-1038x576(dark).jpg');
 background-attachment:fixed;
 background-size:cover;
 }
@@ -31,7 +31,7 @@ h1, h2, h3, h4, h4 small
 color:#868A08;
 text-shadow: #B40404 0px -5px 3px, #000000 0px 5px 3px;
 font-family: 'kremlinregular';
-<link href='https://dl.dropboxusercontent.com/u/45643475/fonts/Kremlin.css' rel='stylesheet' type='text/css'">
+<link href='https://cdn.rawgit.com/communistbastard/fonts/font/fonts/Kremlin.css' rel='stylesheet' type='text/css'">
 }
 
 p
