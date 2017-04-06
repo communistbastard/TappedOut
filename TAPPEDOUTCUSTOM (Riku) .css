@@ -156,6 +156,5 @@ color: #b40404;
 
 div.panel-body
 {
-background-color:rgba(0,0,0,0.75);
-border:rgba(0,0,0,0.5);
+background-color:rgba(0,0,0,1);
 }
