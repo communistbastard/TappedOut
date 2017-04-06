@@ -154,7 +154,8 @@ background-color:rgba(0,0,0,0.75);
 color: #b40404;
 }
 
-#body > div:nth-child(9) > div > div.col-lg-9.col-md-8 > div:nth-child(2) > div.col-sm-9 > div.add-img-responsive > div > div.panel-body
+div.panel-body
 {
-background-color:rgba(0,0,0,0.75)
+background-color:rgba(0,0,0,0.75);
+border:rgba(0,0,0,0.5);
 }
