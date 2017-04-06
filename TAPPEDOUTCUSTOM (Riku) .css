@@ -154,30 +154,7 @@ background-color:rgba(0,0,0,0.75);
 color: #b40404;
 }
 
-div.panel-body
+#body > div:nth-child(9) > div > div.col-lg-9.col-md-8 > div:nth-child(2) > div.col-sm-9 > div.add-img-responsive > div > div.panel-body
 {
 background-color:rgba(0,0,0,0.75)
 }
-
-<div class="panel panel-default">
-                            <div class="panel-heading">
-                                
-                                <a href="/mtg-decks/27-04-15-and-i-copy-this-and-this-and-this/deck-update/202305/">Clearing Old Comments — April 6, 2017</a>
-                                
-                                <div class="pull-right">
-                                    <a class="btn btn-xs btn-default" href="/mtg-decks/27-04-15-and-i-copy-this-and-this-and-this/deck-update/202305/edit/">Edit</a>
-                                </div>
-                                
-                                
-                            </div>
-                            
-                            <div class="panel-body">
-                                <div class="add-img-responsive add-embed-responsive">
-color:#333;
-background-color:#B40404;
-border-color:#000000;
-                                    
-                                </div>
-                            </div>
-                            
-                        </div>
