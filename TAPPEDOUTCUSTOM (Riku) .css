@@ -161,9 +161,10 @@ background-repeat:repeat-y;
 background-image:url('');
 }
 
-<div class="panel-body"
-style="background-color:rgba(0,0,0,0.75)">
-<div class="add-img-responsive add-embed-responsive">
-<p>.</p>
-</div>
-</div>
+<div class="panel-body" style="
+    background-color: rgba(0,0,0,0.75);
+">
+                                <div class="add-img-responsive add-embed-responsive">
+                                    <p>.</p>
+                                </div>
+                            </div>
