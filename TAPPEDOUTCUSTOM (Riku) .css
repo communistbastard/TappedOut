@@ -161,10 +161,24 @@ background-repeat:repeat-y;
 background-image:url('');
 }
 
-<div class="panel-body" style="
-    background-color: rgba(0,0,0,0.75);
+<div class="panel panel-default" style="
+    background-color: rgba(0,0,0,0.5);
 ">
+                            <div class="panel-heading">
+                                
+                                <a href="/mtg-decks/27-04-15-and-i-copy-this-and-this-and-this/deck-update/202305/">Clearing Old Comments — April 6, 2017</a>
+                                
+                                <div class="pull-right">
+                                    <a class="btn btn-xs btn-default" href="/mtg-decks/27-04-15-and-i-copy-this-and-this-and-this/deck-update/202305/edit/">Edit</a>
+                                </div>
+                                
+                                
+                            </div>
+                            
+                            <div class="panel-body">
                                 <div class="add-img-responsive add-embed-responsive">
                                     <p>.</p>
                                 </div>
                             </div>
+                            
+                        </div>
