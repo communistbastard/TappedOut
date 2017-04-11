@@ -154,8 +154,9 @@ background-color:rgba(0,0,0,0.75);
 color: #b40404;
 }
 
-<div class="panel-body">
-                                <div class="add-img-responsive add-embed-responsive">
-                                    <p></p>
-                                </div>
-                            </div>
+div.panel-body
+{
+background-color:black;
+background-repeat:repeat-y;
+background-image:url('');
+}
