@@ -154,7 +154,8 @@ background-color:rgba(0,0,0,0.75);
 color: #b40404;
 }
 
-div.panel.panel-default
+.list-group-item, .panel, .well, .modal-content
 {
-background-color:rgba(0,0,0,0.75);
+  background-color: rgba(0,0,0,0.75);
+  border: 1px solid rgba(0,0,0,0.75);
 }
