@@ -53,7 +53,7 @@ span.font-effect-toxic-animation
 
 	body#sitebody 
 	{
-		background-image: url("https://dl.dropboxusercontent.com/u/45643475/superman-red-son.jpg") !important;
+		background-image: url("https://cdn.rawgit.com/communistbastard/TappedOut/font/superman-red-son.jpg") !important;
 		background-attachment: fixed;
 		background-position: center;
 		background-size: cover;
@@ -62,7 +62,7 @@ span.font-effect-toxic-animation
 
 	div#masthead
 	{
-		background-image: url("https://dl.dropboxusercontent.com/u/45643475/superman-red-son.jpg") !important;
+		background-image: url("https://cdn.rawgit.com/communistbastard/TappedOut/font/superman-red-son.jpg") !important;
 		background-attachment: fixed;
 		background-position: center;
 		background-size: cover;
@@ -77,7 +77,7 @@ span.font-effect-toxic-animation
 
 	div.well.comment
 	{
-		<!--background-image: url("https://dl.dropboxusercontent.com/u/45643475/knight-artorias-dark-souls-game-desktop.jpg") !important;
+		<!--background-image: url("https://cdn.rawgit.com/communistbastard/TappedOut/font/knight-artorias-dark-souls-game-desktop.jpg") !important;
 		background-attachment: fixed;
 		background-size: cover;
 		background-repeat: no-repeat;-->
@@ -88,7 +88,7 @@ span.font-effect-toxic-animation
 
 	div.modal-content
 	{
-		background-image: url("https://dl.dropboxusercontent.com/u/45643475/knight-artorias-dark-souls-game-desktop.jpg") !important;
+		background-image: url("https://cdn.rawgit.com/communistbastard/TappedOut/font/knight-artorias-dark-souls-game-desktop.jpg") !important;
 		background-attachment: fixed;
 		background-size: contain;
 		background-repeat: no-repeat;
@@ -175,7 +175,7 @@ span.font-effect-toxic-animation
 
 	nav.navbar.navbar-inverse.navbar-fixed-top
 	{
-		background-image: url("https://dl.dropboxusercontent.com/u/45643475/new.png") !important;
+		background-image: url("https://cdn.rawgit.com/communistbastard/TappedOut/font/new.png") !important;
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-color:rgba(0,0,0,1);
