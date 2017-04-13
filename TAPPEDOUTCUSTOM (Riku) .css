@@ -95,11 +95,16 @@ color:#000000;
 background-color:rgba(0,0,0,0.5);
 }
   
-div.modal-content
-{
-background-color:rgba(0,0,0,0.5);
-}
-
+	div.modal-content
+	{
+		background-image: url("https://cdn.rawgit.com/communistbastard/TappedOut/font/knight-artorias-dark-souls-game-desktop.jpg") !important;
+		background-attachment: fixed;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-color:rgba(0,0,0,0.4);
+		border: 1px solid #000000;
+	}
 div.row 
 {
 color:#B40404;
