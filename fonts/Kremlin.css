@@ -5,7 +5,7 @@
 @font-face {
     font-family: 'kremlinregular';
     src: url('https://cdn.rawgit.com/communistbastard/fonts/font/fonts/kremlin-webfont.eot');
-    src: url('https://dl.dropboxusercontent.com/u/45643475/fonts/kremlin-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('https://cdn.rawgit.com/communistbastard/fonts/font/fonts/kremlin-webfont.eot?#iefix') format('embedded-opentype'),
          url('https://cdn.rawgit.com/communistbastard/fonts/font/fonts/kremlin-webfont.woff2') format('woff2'),
          url('https://cdn.rawgit.com/communistbastard/fonts/font/fonts/kremlin-webfont.woff') format('woff'),
          url('https://cdn.rawgit.com/communistbastard/fonts/font/fonts/kremlin-webfont.ttf') format('truetype'),
