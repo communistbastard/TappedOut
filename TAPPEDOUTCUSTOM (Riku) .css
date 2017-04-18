@@ -161,5 +161,5 @@ color: #b40404;
 
 div.panel.panel-default
 {
-background-color: transparent;
+background-color: rgba(0,0,0,0.75);
 }
