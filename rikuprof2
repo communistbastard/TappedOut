@@ -1,0 +1,362 @@
+@media screen and (min-width: 992px)
+{	
+
+	body#sitebody 
+	{
+		background-image: url("https://cdn.rawgit.com/communistbastard/fonts/font/grove-art-1038x576(dark).jpg") !important;
+		background-attachment: fixed;
+		background-position: center;
+		background-size: cover;
+		background-color:rgba(0,0,0,1);
+	}
+
+	div#masthead
+	{
+		background-image: url("https://cdn.rawgit.com/communistbastard/fonts/font/grove-art-1038x576(dark).jpg") !important;
+		background-attachment: fixed;
+		background-position: center;
+		background-size: cover;
+		background-color:rgba(0,0,0,1);
+	}
+
+	div.well
+	{
+		background-color:rgba(0,0,0,0.4);
+		border: 1px solid #000000;
+	}
+
+	div.well.comment
+	{
+		<!--background-image: url("https://cdn.rawgit.com/communistbastard/TappedOut/font/fire_tree_by_lloyd_blindman-d4uf79o.jpg") !important;
+		background-attachment: fixed;
+		background-size: cover;
+		background-repeat: no-repeat;-->
+		background-color:rgba(0,0,0,2);
+		font-weight: bold;
+		border: 1px solid #000000;
+	}
+
+	div.modal-content
+	{
+		background-image: url("https://cdn.rawgit.com/communistbastard/TappedOut/font/fire_tree_by_lloyd_blindman-d4uf79o.jpg") !important;
+		background-attachment: fixed;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-color:rgba(0,0,0,0.4);
+		border: 1px solid #000000;
+	}
+
+	div.add-img-responsive
+	{
+		background-color:rgba(0,0,0,0.6);
+		border: 1px solid #000000;
+    		border-radius: 3px;
+	}
+
+	div.col-xs-9
+	{
+		background-color:rgba(0,0,0,0.6);
+		border: 1px solid #000000;
+    		border-radius: 3px;
+	}
+
+
+	div.col-md-10.col-lg-10.col-xs-10
+	{	
+		background-color:rgba(0,0,0,0.7);
+    		border-radius: 3px;
+	}
+
+	div.col-md-10.col-lg-10.col-xs-10.info
+	{	
+		background-color:rgba(0,0,0,0);
+	}
+
+	div.col-md-2.col-lg-2.pull-right
+	{	
+		background-color:rgba(0,0,0,0.7);
+    		border-radius: 3px;
+	}
+
+	div.row.deck-row-lg
+	{
+		background-color:rgba(0,0,0,0.5);
+		border: 1px solid #000000;
+    		border-radius: 3px;
+	}
+
+	div.panel.panel-default
+	{
+		background-color:rgba(0,0,0,0.5);
+		color:#B40404;
+		border: 1px solid #000000;
+	}
+
+	div#heading.panel-heading
+	{
+		background-color:rgba(0,0,0,0.5);
+		color:#B40404;
+	}
+
+	div#heading1.panel-heading
+	{
+		background-color:rgba(0,0,0,0.5);
+		color:#B40404;
+	}
+
+	div#heading2.panel-heading
+	{
+		background-color:rgba(0,0,0,0.5);
+		color:#B40404;
+	}
+
+	div#heading3.panel-heading
+	{
+		background-color:rgba(0,0,0,0.5);
+		color:#B40404;
+	}
+
+	div.jumbotron
+	{
+		background-color:rgba(0,0,0,0);
+		background-size: cover;
+	}
+
+	nav.navbar.navbar-inverse.navbar-fixed-top
+	{
+		background-image: url("https://cdn.rawgit.com/communistbastard/TappedOut/font/new.png") !important;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-color:rgba(0,0,0,1);
+		border: 1px solid #000000;
+    		border-radius: 3px;
+	}
+
+	nav.navbar.navbar-default
+	{
+		color:#B40404;
+		background-color:rgba(0,0,0,0.3);
+		border: 1px solid #000000;
+	}
+
+	a.btn.btn-default.btn-success.pull-right
+	{
+		color:#B40404;
+		background-color:rgba(0,0,0,0.7);
+		border: 1px solid #000000;
+	}
+
+	a.btn.btn-small.btn-default
+	{
+		color:#B40404;
+		background-color:rgba(0,0,0,0.7);
+		border: 1px solid #000000;
+	}
+
+	a.btn.btn-sm.btn-warning
+	{
+		color:#B40404;
+		background-color:rgba(0,0,0,0.7);
+		border: 1px solid #000000;
+	}
+
+	a.btn.btn-info.btn-sm
+	{
+		color:#B40404;
+		background-color:rgba(0,0,0,0.7);
+		border: 1px solid #000000;
+	}
+
+	a.btn.btn-default
+	{
+		color:#B40404;
+		background-color:rgba(0,0,0,0.7);
+		border: 1px solid #000000;
+	}
+
+	a.delete.btn.btn-xs.btn-danger
+	{
+		color:#B40404;
+		background-color:rgba(0,0,0,0.7);
+		border: 1px solid #000000;
+	}
+
+	a.pull-right.btn.btn-default.btn-xs
+	{
+		color:#B40404;
+		background-color:rgba(0,0,0,0.5);
+		border: 1px solid #000000;
+	}
+
+	a.pull-right.badge.badge-info
+	{
+		color:#868A08;
+		background-color:rgba(0,0,0,0.7);
+		border: 1px solid #000000;
+	}
+
+	a.badge.comment-page-id
+	{
+		color:#868A08;
+		background-color:rgba(0,0,0,0.7);
+		border: 1px solid #000000;
+	}
+
+	a.dropdown-toggle
+	{
+		background-image: url("https://cdn.rawgit.com/communistbastard/TappedOut/font/new.png") !important;
+		background-size: contain;
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+		background-color:rgba(0,0,0,0);
+	}
+
+
+	input.btn.btn-primary
+	{
+		color:#B40404;
+		background-color:rgba(0,0,0,0.7);
+		border: 1px solid #000000;
+	}
+
+	input.submit
+	{
+		color:#B40404;
+		background-color:rgba(0,0,0,0.7);
+		border: 1px solid #000000;
+	}
+
+	span.btn.btn-default.pull-right
+	{
+		color:#B40404;
+		background-color:rgba(0,0,0,0.7);
+		border: 1px solid #000000;
+	}
+
+	span.glyphicon.glyphicon-comment.red
+	{
+		color:rgba(27,121,217,1);
+	}
+
+	span.badge
+	{
+		color:#868A08;
+		background-color:rgba(0,0,0,0.7);
+		border: 1px solid #000000;
+	}
+
+	table.table
+	{
+		
+		background-color:rgba(0,0,0,0.5);
+		border: 1px solid #000000;
+    		border-radius: 3px;
+	}
+
+	ul.dropdown-menu
+	{
+		background-image: url("https://cdn.rawgit.com/communistbastard/TappedOut/font/new.png") !important;
+		background-size: contain;
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+		background-color:rgba(0,0,0,0);
+		border: 1px solid #000000;
+    		border-radius: 3px;
+	}
+
+	h4.panel-title
+	{
+		color:#B40404;
+	}
+
+	td
+	{
+		color:#868A08;
+	}
+
+	h1
+	{
+		color:#B40404;
+	}
+
+	h2
+	{
+		color:#B40404;
+	}
+
+	h3
+	{
+		color:#B40404;
+	}
+
+	h4
+	{
+		color:#B40404;
+	}
+
+	h5
+	{
+		color:#B40404;
+	}
+
+	h6
+	{
+		color:#B40404;
+	}
+
+	hr
+	{
+		color:#B40404;
+	}
+
+	tspan
+	{
+		color:#B40404;
+	}
+
+	input
+	{
+		color:#B40404;
+	}
+
+	p
+	{
+		color:#868A08;
+	}
+
+	button
+	{
+		color:#B40404;
+	}
+
+	nav
+	{
+		color:#B40404;
+	}
+
+	ul
+	{
+		color:#B40404;
+	}
+
+	li
+	{
+		color:#868A08;
+	}
+
+	span
+	{
+		color:#B40404;
+	}
+
+	span.small
+	{
+		color:#B40404;
+	}
+
+	div
+	{
+	   color:#B40404;
+	}
+}
