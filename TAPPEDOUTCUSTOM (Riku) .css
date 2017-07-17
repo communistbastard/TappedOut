@@ -132,8 +132,8 @@ border-color:#B40404;
 
 .btn-default
 {
-color:#333;
-background-color:#B40404;
+color:#B40404;
+background-color:#868A08;
 border-color:#000000;
 }
 
@@ -157,7 +157,7 @@ background-color:rgba(0,0,0,0.75);
 
 .panel-title
 {
-color: #b40404;
+color: #B40404;
 }
 
 div.panel.panel-default
