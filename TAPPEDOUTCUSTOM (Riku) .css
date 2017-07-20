@@ -28,8 +28,8 @@ color:#FFFFFF;
 
 h1, h2, h3, h4, h4 small
 {
-color:#868A08;
-text-shadow: #B40404 0px -5px 3px, #000000 0px 5px 3px;
+color:#B40404;
+text-shadow: #868A08 0px -5px 3px, #000000 0px 5px 3px;
 font-family: 'kremlinregular';
 <link href='https://cdn.rawgit.com/communistbastard/fonts/font/fonts/Kremlin.css' rel='stylesheet' type='text/css'">
 }
