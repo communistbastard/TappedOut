@@ -4,3 +4,7 @@
 #000000; text-shadow: #FFFFFF 0px 0px 10px, font-family: Cinzel Decorative; font-size: 15px;
 
 <a style="color: #B40404; text-shadow: #868A08 0px -3px 1px, #000000 0px 3px 1px; font-family: Kremlin; link rel="stylesheet" type="text/css" href='https://cdn.rawgit.com/communistbastard/fonts/font/fonts/Kremlin.css' rel='stylesheet' type='text/css'"></a>
+
+Current correct version****
+
+#B40404; text-shadow: #868A08 0px -5px 3px, #000000 0px 5px 3px; font-family: 'Kremlin'; link href='https://cdn.rawgit.com/communistbastard/fonts/font/fonts/Kremlin.css' rel='stylesheet' type='text/css'
