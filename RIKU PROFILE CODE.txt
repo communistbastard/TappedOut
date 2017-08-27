@@ -1,3 +1,7 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/communistbastard/fonts/font/TAPPEDOUTCUSTOM%20(Riku)%20.css">
 <h1 style="text-align:center;color:#B40404; text-shadow: #868A08 0px -5px 3px, #000000 0px 5px 3px; font-family: 'Kremlin';">
 <link href='https://cdn.rawgit.com/communistbastard/fonts/font/fonts/Kremlin.css' rel='stylesheet' type='text/css'">I copy this. OH! I copy this too.<h1/>
+
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/communistbastard/TappedOut/font/TappedoutProfile.css">
+<h1 style="text-align:center;color:#B40404; text-shadow: #868A08 0px -5px 3px, #000000 0px 5px 3px; font-family: 'Kremlin';">
+<link href='https://cdn.rawgit.com/communistbastard/fonts/font/fonts/Kremlin.css' rel='stylesheet' type='text/css'">
