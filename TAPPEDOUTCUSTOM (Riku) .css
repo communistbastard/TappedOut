@@ -99,10 +99,10 @@ div.modal-content
 {
 background-image: url("https://cdn.rawgit.com/communistbastard/TappedOut/font/maxresdefault.jpg") !important;
 background-attachment: fixed;
-background-size: contain;
+background-size: fill;
 background-repeat: no-repeat;
 background-position: center;
-background-color:rgba(0,0,0,0.4);
+background-color:rgba(0,0,0,1.0);
 border: 1px solid #000000;
 }
 
