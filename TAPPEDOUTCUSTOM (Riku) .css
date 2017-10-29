@@ -47,7 +47,13 @@ nav.navbar.navbar-inverse.navbar-fixed-top
 color:#B40404
 background-color:rgba(0,0,0,0.4);
 }
-  
+
+nav.navbar.navbar-inverse.navbar-fixed-top.tapped-menu-navbar.bottom-divider::after
+{
+color:#B40404
+background-color:rgba(0,0,0,0.4);
+}
+
 div.jumbotron
 {
 background-color:rgba(0,0,0,0.75);
@@ -163,4 +169,10 @@ color: #B40404;
 div.panel.panel-default
 {
 background-color: rgba(0,0,0,0.75);
+}
+
+div.container::before
+{
+color:#B40404
+background-color:rgba(0,0,0,0.4);
 }
